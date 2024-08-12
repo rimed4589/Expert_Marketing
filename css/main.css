@@ -1,0 +1,102 @@
+/*===============Propiedades Globales================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+
+/*===================MENU==========================*/
+
+#menu li > a {
+    font-size: 18px;
+    font-weight: bold;
+    color: #3f3f3f;
+}
+
+#menu form > button {
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+     
+ 
+/*===================SLIDER DE IMAGENES==========================*/
+
+.carousel-inner {
+    max-height: 39rem;
+}
+
+
+/*===================SECCION NUESTRO EQUIPO IMAGEN==========================*/
+
+
+
+
+
+
+/*===================SECCION NUESTRO EQUIPO MAPA==========================*/
+
+
+
+
+
+
+
+
+/*===========================SECCION EQUIPO MIAMI==================================*/
+
+
+
+
+
+
+/*=========================CONTACTOS BACKGROUND================================*/
+
+
+
+
+
+/*=========================CONTACTOS FORMULARIO================================*/
+
+
+
+
+
+
+/*=========================FOOTER================================*/
+
+
+
+
+
+
+
+/*=========================MEDIA QUERIES PANTALLA ANCHA================================*/
+
+
+
+
+
+
+
+
+/*=========================MEDIA QUERIES PANTALLA SM================================*/
+
+@media (max-width:768) {
+    #intro {
+        width: 90% !important;
+    }
+}
+
+
+
+
+
+
+
+
+/*=========================MEDIA QUERIES PANTALLA EXTRA-SM================================*/
+
